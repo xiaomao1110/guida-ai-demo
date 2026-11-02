@@ -10,3 +10,9 @@
 ## 📸 运行效果图
 <img width="1280" height="800" alt="88ecb779-f3d9-4072-b976-656812db6aca" src="https://github.com/user-attachments/assets/4e16499e-e0aa-4a3d-aed4-d50466487457" />
 - [x] **Java 后端接入**：使用 Spring Boot + HttpClient 编写 RESTful API，成功打通 Java 与 DeepSeek 大模型的交互。
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/8bb0231b-9eda-4852-b933-b3fbf2c59bf2" />
+## 前后端全栈联调成功
+前端使用 Streamlit，后端使用 Spring Boot 搭建 RESTful API。实现了前后端分离架构，前端不再暴露 API Key，所有大模型调用与 RAG 检索逻辑均由 Java 后端安全处理。
+
+
